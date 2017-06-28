@@ -30,3 +30,17 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+### Screenshots
+
+#### Home
+![Alt text](/screenshots/home.JPG?raw=true "Home")
+
+#### About
+![Alt text](/screenshots/about.JPG?raw=true "About")
+
+#### Services
+![Alt text](/screenshots/services.JPG?raw=true "Services")
+
+#### Contact
+![Alt text](/screenshots/contact.JPG?raw=true "Contact")
