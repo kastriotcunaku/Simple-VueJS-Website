@@ -36,8 +36,8 @@ npm run build --report
 #### Home
 ![Alt text](/screenshots/home.JPG?raw=true "Home")
 
-#### About
-![Alt text](/screenshots/about.JPG?raw=true "About")
+#### Profile
+![Alt text](/screenshots/profile.JPG?raw=true "Profile")
 
 #### Services
 ![Alt text](/screenshots/services.JPG?raw=true "Services")
